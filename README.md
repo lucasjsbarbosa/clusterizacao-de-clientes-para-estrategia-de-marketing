@@ -25,7 +25,7 @@ O dataset utilizado contém as seguintes colunas:
 - `PURCHASES_TRX`: Transações de compras
 - `CREDIT_LIMIT`: Limite de crédito
 - `PAYMENTS`: Pagamentos
-- `MINIMUM_PAYMENTS`: Pagamentos mínimos
+- `MINIMUM_PAYMENTS`: Pagamentos mínimos.
 - `PRC_FULL_PAYMENT`: Porcentagem de pagamento total
 - `TENURE`: Tenência 
 
